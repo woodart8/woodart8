@@ -33,6 +33,10 @@ Hello, I'm Kibeom Jeon
 ![MyBatis](https://img.shields.io/badge/MyBatis-FE6602.svg?&logo=mybatis5&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?&logo=openai&logoColor=white)
 
+**Mobile**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) 
+
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
