@@ -31,6 +31,7 @@ Hello, I'm Kibeom Jeon
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-569A31?style=flat&logo=spring-boot) 
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F.svg?&logo=spring-data-JPA)
 ![MyBatis](https://img.shields.io/badge/MyBatis-FE6602.svg?&logo=mybatis5&logoColor=white)
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?&logo=openai&logoColor=white)
 
 **Mobile**
