@@ -1,4 +1,5 @@
 Hello, I'm Kibeom Jeon
+
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=woodart8&theme=tokyonight)" />
@@ -6,6 +7,16 @@ Hello, I'm Kibeom Jeon
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=woodart8&layout=compact&langs_count=8&card_width=300" />
 </a>
+
+---
+
+**🏅Certification🏅**
+> SQLD (2024.09.20)
+> 
+> 정보처리기사 (필기 합격)
+
+**🥇Awards🥇**
+> ASK 2022 학술논문경진대회 동상[한국정보처리학회] (2022.05.20)
 
 ---
 
@@ -70,11 +81,3 @@ Hello, I'm Kibeom Jeon
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kibeom920)](https://solved.ac/kibeom920)
-
-**🏅Certification🏅**
-> SQLD (2024.09.20)
-> 
-> 정보처리기사 (필기 합격)
-
-**🥇Awards🥇**
-> ASK 2022 학술논문경진대회 동상[한국정보처리학회] (2022.05.20)
