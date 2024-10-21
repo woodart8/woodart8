@@ -65,6 +65,8 @@
 **DevOps**
 
 ![Amazon Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&logo=docker&logoColor=white)       
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 
 **Collaboration Tool**
 
