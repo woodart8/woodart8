@@ -50,6 +50,8 @@
 ![MyBatis](https://img.shields.io/badge/MyBatis-FE6602.svg?&logo=mybatis5&logoColor=white)
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?&logo=openai&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F.svg?&logo=spring-webflux&logoColor=white)
+![SSE](https://img.shields.io/badge/SSE-A8B9CC.svg?&logo=sse&logoColor=white)
 
 **Mobile**
 
