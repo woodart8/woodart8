@@ -51,7 +51,7 @@
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?&logo=openai&logoColor=white)
 ![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F.svg?&logo=spring-webflux&logoColor=white)
-![SSE](https://img.shields.io/badge/SSE-333333.svg?&logo=sse&logoColor=white)
+![SSE](https://img.shields.io/badge/SSE-Server%20Sent%20Event-grey.svg?&logo=server&color=blue)
 
 **Mobile**
 
