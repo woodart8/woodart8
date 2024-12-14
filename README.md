@@ -44,6 +44,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-569A31?style=flat&logo=spring-boot&logoColor=white) 
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F.svg?&logo=spring-data-JPA)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Batch-6DB33F.svg?&logo=spring-batch)
 ![MyBatis](https://img.shields.io/badge/MyBatis-FE6602.svg?&logo=mybatis5&logoColor=white)
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?&logo=openai&logoColor=white)
