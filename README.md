@@ -51,10 +51,6 @@
 ![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F.svg?&logo=spring-webflux&logoColor=white)
 ![SSE](https://img.shields.io/badge/SSE-Server%20Sent%20Event-grey.svg?&logo=server&color=blue)
 
-**Mobile**
-
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) 
-
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
